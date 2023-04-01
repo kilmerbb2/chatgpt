@@ -1,0 +1,779 @@
+Code,Code Type,Description,Number of Patients
+ICD-10-D-G5701,ICD-10-D,Lesion of sciatic nerve  right lower limb,11
+ICD-10-D-G5773,ICD-10-D,Causalgia of bilateral lower limbs,11
+ICD-10-D-G90513,ICD-10-D,Complex regional pain syndrome I of upper limb  bilateral,11
+ICD-10-D-H9190,ICD-10-D,Unspecified hearing loss  unspecified ear,11
+ICD-10-D-K449,ICD-10-D,Diaphragmatic hernia without obstruction or gangrene,11
+ICD-10-D-K5090,ICD-10-D,Crohn's disease  unspecified  without complications,11
+ICD-10-D-M19071,ICD-10-D,Primary osteoarthritis  right ankle and foot,11
+ICD-10-D-M47897,ICD-10-D,Other spondylosis  lumbosacral region,11
+ICD-10-D-M4800,ICD-10-D,Spinal stenosis  site unspecified,11
+ICD-10-D-M79652,ICD-10-D,Pain in left thigh,11
+ICD-10-D-M79673,ICD-10-D,Pain in unspecified foot,11
+ICD-10-D-R0789,ICD-10-D,Other chest pain,11
+ICD-10-D-R079,ICD-10-D,Chest pain  unspecified,11
+ICD-10-D-R633,ICD-10-D,Feeding difficulties,11
+ICD-10-D-R9431,ICD-10-D,Abnormal electrocardiogram [ECG] [EKG],11
+ICD-10-D-T8484XA,ICD-10-D,Pain due to internal orthopedic prosthetic devices  implants and grafts  initial encounter,11
+ICD-10-D-Z0000,ICD-10-D,Encounter for general adult medical examination without abnormal findings,11
+ICD-10-D-Z6830,ICD-10-D,Body mass index [BMI]30.0-30.9  adult,11
+ICD-10-D-Z6833,ICD-10-D,Body mass index [BMI] 33.0-33.9  adult,11
+ICD-10-D-Z6837,ICD-10-D,Body mass index [BMI] 37.0-37.9  adult,11
+ICD-10-D-Z8546,ICD-10-D,Personal history of malignant neoplasm of prostate,11
+ICD-10-D-Z87442,ICD-10-D,Personal history of urinary calculi,11
+ICD-10-D-Z886,ICD-10-D,Allergy status to analgesic agent,11
+ICD-10-D-Z91018,ICD-10-D,Allergy to other foods,11
+ICD-10-D-Z96641,ICD-10-D,Presence of right artificial hip joint,11
+ICD-9-D-042,ICD-9-D,Human immunodeficiency virus [HIV] disease,11
+ICD-9-D-2400,ICD-9-D,Goiter  specified as simple,11
+ICD-9-D-30001,ICD-9-D,Panic disorder without agoraphobia,11
+ICD-9-D-30981,ICD-9-D,Posttraumatic stress disorder,11
+ICD-9-D-33700,ICD-9-D,Idiopathic peripheral autonomic neuropathy  unspecified,11
+ICD-9-D-34510,ICD-9-D,Generalized convulsive epilepsy  without mention of intractable epilepsy,11
+ICD-9-D-34673,ICD-9-D,Chronic migraine without aura  with intractable migraine  so stated  with status migrainosus,11
+ICD-9-D-4414,ICD-9-D,Abdominal aneurysm without mention of rupture,11
+ICD-9-D-7100,ICD-9-D,Systemic lupus erythematosus,11
+ICD-9-D-72705,ICD-9-D,Other tenosynovitis of hand and wrist,11
+ICD-9-D-73710,ICD-9-D,Kyphosis (acquired) (postural),11
+ICD-9-D-V1204,ICD-9-D,Personal history of Methicillin resistant Staphylococcus aureus,11
+ICD-9-D-V1559,ICD-9-D,Personal history of other injury,11
+ICD-9-D-V180,ICD-9-D,Family history of diabetes mellitus,11
+ICD-9-D-V5399,ICD-9-D,Fitting and adjustment  other device,11
+ICD-10-D-C61,ICD-10-D,Malignant neoplasm of prostate,12
+ICD-10-D-E1151,ICD-10-D,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,12
+ICD-10-D-G43019,ICD-10-D,Migraine without aura  intractable  without status migrainosus,12
+ICD-10-D-G4731,ICD-10-D,Primary central sleep apnea,12
+ICD-10-D-G5692,ICD-10-D,Unspecified mononeuropathy of left upper limb,12
+ICD-10-D-G5722,ICD-10-D,Lesion of femoral nerve  left lower limb,12
+ICD-10-D-G5730,ICD-10-D,Lesion of lateral popliteal nerve  unspecified lower limb,12
+ICD-10-D-G8922,ICD-10-D,Chronic post-thoracotomy pain,12
+ICD-10-D-J9690,ICD-10-D,Respiratory failure  unspecified  unspecified whether with hypoxia or hypercapnia,12
+ICD-10-D-K599,ICD-10-D,Functional intestinal disorder  unspecified,12
+ICD-10-D-M2011,ICD-10-D,Hallux valgus (acquired)  right foot,12
+ICD-10-D-M2041,ICD-10-D,Other hammer toe(s) (acquired)  right foot,12
+ICD-10-D-M5411,ICD-10-D,Radiculopathy  occipito-atlanto-axial region,12
+ICD-10-D-M5413,ICD-10-D,Radiculopathy  cervicothoracic region,12
+ICD-10-D-M7062,ICD-10-D,Trochanteric bursitis  left hip,12
+ICD-10-D-M75102,ICD-10-D,Unspecified rotator cuff tear or rupture of left shoulder  not specified as traumatic,12
+ICD-10-D-R252,ICD-10-D,Cramp and spasm,12
+ICD-10-D-Y838,ICD-10-D,Other surgical procedures as the cause of abnormal reaction of the patient  or of later complication  without mention of misadventure at the time of the procedure,12
+ICD-10-D-Z89511,ICD-10-D,Acquired absence of right leg below knee,12
+ICD-10-D-Z9889,ICD-10-D,Other specified postprocedural states,12
+ICD-9-D-2469,ICD-9-D,Unspecified disorder of thyroid,12
+ICD-9-D-2572,ICD-9-D,Other testicular hypofunction,12
+ICD-9-D-3482,ICD-9-D,Benign intracranial hypertension,12
+ICD-9-D-3548,ICD-9-D,Other mononeuritis of upper limb,12
+ICD-9-D-4139,ICD-9-D,Other and unspecified angina pectoris,12
+ICD-9-D-4780,ICD-9-D,Hypertrophy of nasal turbinates,12
+ICD-9-D-60784,ICD-9-D,Impotence of organic origin,12
+ICD-9-D-61883,ICD-9-D,Pelvic muscle wasting,12
+ICD-9-D-6273,ICD-9-D,Postmenopausal atrophic vaginitis,12
+ICD-9-D-7102,ICD-9-D,Sicca syndrome,12
+ICD-9-D-71949,ICD-9-D,Pain in joint  multiple sites,12
+ICD-9-D-72660,ICD-9-D,Enthesopathy of knee  unspecified,12
+ICD-9-D-73679,ICD-9-D,Other acquired deformities of ankle and foot,12
+ICD-9-D-78609,ICD-9-D,Other respiratory abnormalities,12
+ICD-9-D-78862,ICD-9-D,Slowing of urinary stream,12
+ICD-9-D-79093,ICD-9-D,Elevated prostate specific antigen [PSA],12
+ICD-9-D-8054,ICD-9-D,Closed fracture of lumbar vertebra without mention of spinal cord injury,12
+ICD-9-D-99700,ICD-9-D,Nervous system complication  unspecified,12
+ICD-9-D-E8788,ICD-9-D,Other specified surgical operations and procedures causing abnormal patient reaction  or later complication  without mention of misadventure at time of operation,12
+ICD-9-D-E9290,ICD-9-D,Late effects of motor vehicle accident,12
+ICD-9-D-V103,ICD-9-D,Personal history of malignant neoplasm of breast,12
+ICD-9-D-V1046,ICD-9-D,Personal history of malignant neoplasm of prostate,12
+ICD-9-D-V153,ICD-9-D,Personal history of irradiation  presenting hazards to health,12
+ICD-9-D-V643,ICD-9-D,Procedure not carried out for other reasons,12
+ICD-10-D-E668,ICD-10-D,Other obesity,13
+ICD-10-D-G43009,ICD-10-D,Migraine without aura  not intractable  without status migrainosus,13
+ICD-10-D-G543,ICD-10-D,Thoracic root disorders  not elsewhere classified,13
+ICD-10-D-G5602,ICD-10-D,Carpal tunnel syndrome  left upper limb,13
+ICD-10-D-G5640,ICD-10-D,Causalgia of unspecified upper limb,13
+ICD-10-D-G5783,ICD-10-D,Other specified mononeuropathies of bilateral lower limbs,13
+ICD-10-D-G5793,ICD-10-D,Unspecified mononeuropathy of bilateral lower limbs,13
+ICD-10-D-G893,ICD-10-D,Neoplasm related pain (acute) (chronic),13
+ICD-10-D-M179,ICD-10-D,Osteoarthritis of knee  unspecified,13
+ICD-10-D-M4696,ICD-10-D,Unspecified inflammatory spondylopathy  lumbar region,13
+ICD-10-D-M5010,ICD-10-D,Cervical disc disorder with radiculopathy  unspecified cervical region,13
+ICD-10-D-M5134,ICD-10-D,Other intervertebral disc degeneration  thoracic region,13
+ICD-10-D-M79641,ICD-10-D,Pain in right hand,13
+ICD-10-D-N186,ICD-10-D,End stage renal disease,13
+ICD-10-D-N390,ICD-10-D,Urinary tract infection  site not specified,13
+ICD-10-D-R001,ICD-10-D,Bradycardia  unspecified,13
+ICD-10-D-R7303,ICD-10-D,Prediabetes,13
+ICD-10-D-T85191A,ICD-10-D,Other mechanical complication of implanted electronic neurostimulator of peripheral nerve electrode (lead)  initial encounter,13
+ICD-10-D-T85199A,ICD-10-D,Other mechanical complication of other implanted electronic stimulator of nervous system  initial encounter,13
+ICD-10-D-Z20822,ICD-10-D,Contact with and (suspected) exposure to COVID-19,13
+ICD-10-D-Z6834,ICD-10-D,Body mass index [BMI] 34.0-34.9  adult,13
+ICD-10-D-Z6842,ICD-10-D,Body mass index [BMI] 45.0-49.9  adult,13
+ICD-10-D-Z7289,ICD-10-D,Other problems related to lifestyle,13
+ICD-10-D-Z7952,ICD-10-D,Long term (current) use of systemic steroids,13
+ICD-10-D-Z930,ICD-10-D,Tracheostomy status,13
+ICD-9-D-30401,ICD-9-D,Opioid type dependence  continuous,13
+ICD-9-D-3380,ICD-9-D,Central pain syndrome,13
+ICD-9-D-33920,ICD-9-D,Post-traumatic headache  unspecified,13
+ICD-9-D-3576,ICD-9-D,Polyneuropathy due to drugs,13
+ICD-9-D-56942,ICD-9-D,Anal or rectal pain,13
+ICD-9-D-5920,ICD-9-D,Calculus of kidney,13
+ICD-9-D-71591,ICD-9-D,Osteoarthrosis  unspecified whether generalized or localized  shoulder region,13
+ICD-9-D-7179,ICD-9-D,Unspecified internal derangement of knee,13
+ICD-9-D-73739,ICD-9-D,Other kyphoscoliosis and scoliosis,13
+ICD-9-D-7823,ICD-9-D,Edema,13
+ICD-9-D-78869,ICD-9-D,Other abnormality of urination,13
+ICD-9-D-79029,ICD-9-D,Other abnormal glucose,13
+ICD-9-D-8471,ICD-9-D,Sprain of thoracic,13
+ICD-9-D-V143,ICD-9-D,Personal history of allergy to other anti-infective agent,13
+ICD-9-D-V4364,ICD-9-D,Hip joint replacement,13
+ICD-9-D-V7263,ICD-9-D,Pre-procedural laboratory examination,13
+ICD-9-P-8694,ICD-9-P,Insertion or replacement of single array neurostimulator pulse generator  not specified as rechargeable,13
+ICD-10-D-G5780,ICD-10-D,Other specified mononeuropathies of unspecified lower limb,14
+ICD-10-D-G8111,ICD-10-D,Spastic hemiplegia affecting right dominant side,14
+ICD-10-D-M19072,ICD-10-D,Primary osteoarthritis  left ankle and foot,14
+ICD-10-D-M21371,ICD-10-D,Foot drop  right foot,14
+ICD-10-D-M5127,ICD-10-D,Other intervertebral disc displacement  lumbosacral region,14
+ICD-10-D-M5387,ICD-10-D,Other specified dorsopathies  lumbosacral region,14
+ICD-10-D-M5388,ICD-10-D,Other specified dorsopathies  sacral and sacrococcygeal region,14
+ICD-10-D-M7501,ICD-10-D,Adhesive capsulitis of right shoulder,14
+ICD-10-D-M7502,ICD-10-D,Adhesive capsulitis of left shoulder,14
+ICD-10-D-R1013,ICD-10-D,Epigastric pain,14
+ICD-10-D-R278,ICD-10-D,Other lack of coordination,14
+ICD-10-D-Z01818,ICD-10-D,Encounter for other preprocedural examination,14
+ICD-10-D-Z6836,ICD-10-D,Body mass index [BMI] 36.0-36.9  adult,14
+ICD-10-D-Z8249,ICD-10-D,Family history of ischemic heart disease and other diseases of the circulatory system,14
+ICD-10-D-Z96612,ICD-10-D,Presence of left artificial shoulder joint,14
+ICD-9-D-25001,ICD-9-D,Diabetes mellitus without mention of complication  type I [juvenile type]  not stated as uncontrolled,14
+ICD-9-D-30002,ICD-9-D,Generalized anxiety disorder,14
+ICD-9-D-33819,ICD-9-D,Other acute pain,14
+ICD-9-D-34681,ICD-9-D,Other forms of migraine  with intractable migraine  so stated  without mention of status migrainosus,14
+ICD-9-D-34830,ICD-9-D,Encephalopathy  unspecified,14
+ICD-9-D-3508,ICD-9-D,Other specified trigeminal nerve disorders,14
+ICD-9-D-3555,ICD-9-D,Tarsal tunnel syndrome,14
+ICD-9-D-5533,ICD-9-D,Diaphragmatic hernia without mention of obstruction or gangrene,14
+ICD-9-D-56400,ICD-9-D,Constipation  unspecified,14
+ICD-9-D-5771,ICD-9-D,Chronic pancreatitis,14
+ICD-9-D-70715,ICD-9-D,Ulcer of other part of foot,14
+ICD-9-D-7092,ICD-9-D,Scar conditions and fibrosis of skin,14
+ICD-9-D-71948,ICD-9-D,Pain in joint  other specified sites,14
+ICD-9-D-72740,ICD-9-D,Synovial cyst  unspecified,14
+ICD-9-D-73720,ICD-9-D,Lordosis (acquired) (postural),14
+ICD-9-P-8698,ICD-9-P,Insertion or replacement of multiple array (two or more) rechargeable neurostimulator pulse generator,14
+ICD-10-D-F064,ICD-10-D,Anxiety disorder due to known physiological condition,15
+ICD-10-D-G250,ICD-10-D,Essential tremor,15
+ICD-10-D-J439,ICD-10-D,Emphysema  unspecified,15
+ICD-10-D-J4520,ICD-10-D,Mild intermittent asthma  uncomplicated,15
+ICD-10-D-M25559,ICD-10-D,Pain in unspecified hip,15
+ICD-10-D-M329,ICD-10-D,Systemic lupus erythematosus  unspecified,15
+ICD-10-D-M419,ICD-10-D,Scoliosis  unspecified,15
+ICD-10-D-M5117,ICD-10-D,Intervertebral disc disorders with radiculopathy  lumbosacral region,15
+ICD-10-D-M9904,ICD-10-D,Segmental and somatic dysfunction of sacral region,15
+ICD-10-D-N3010,ICD-10-D,Interstitial cystitis (chronic) without hematuria,15
+ICD-10-D-T8789,ICD-10-D,Other complications of amputation stump,15
+ICD-10-D-Y831,ICD-10-D,Surgical operation with implant of artificial internal device as the cause of abnormal reaction of the patient  or of later complication  without mention of misadventure at the time of the procedure,15
+ICD-10-D-Z91041,ICD-10-D,Radiographic dye allergy status,15
+ICD-10-D-Z9981,ICD-10-D,Dependence on supplemental oxygen,15
+ICD-9-D-07070,ICD-9-D,Unspecified viral hepatitis C without hepatic coma,15
+ICD-9-D-33812,ICD-9-D,Acute post-thoracotomy pain,15
+ICD-9-D-33912,ICD-9-D,Chronic tension type headache,15
+ICD-9-D-34511,ICD-9-D,Generalized convulsive epilepsy  with intractable epilepsy,15
+ICD-9-D-3509,ICD-9-D,Trigeminal nerve disorder  unspecified,15
+ICD-9-D-3869,ICD-9-D,Unspecified vertiginous syndromes and labyrinthine disorders,15
+ICD-9-D-4779,ICD-9-D,Allergic rhinitis  cause unspecified,15
+ICD-9-D-5932,ICD-9-D,Cyst of kidney  acquired,15
+ICD-9-D-59970,ICD-9-D,Hematuria  unspecified,15
+ICD-9-D-71538,ICD-9-D,Osteoarthrosis  localized  not specified whether primary or secondary  other specified sites,15
+ICD-9-D-71595,ICD-9-D,Osteoarthrosis  unspecified whether generalized or localized  pelvic region and thigh,15
+ICD-9-D-7856,ICD-9-D,Enlargement of lymph nodes,15
+ICD-9-D-9531,ICD-9-D,Injury to dorsal nerve root,15
+ICD-9-D-V5849,ICD-9-D,Other specified aftercare following surgery,15
+ICD-9-D-V6700,ICD-9-D,Follow-up examination  following surgery  unspecified,15
+ICD-9-D-V7260,ICD-9-D,Laboratory examination  unspecified,15
+ICD-10-D-E780,ICD-10-D,Pure hypercholesterolemia,16
+ICD-10-D-F4310,ICD-10-D,Post-traumatic stress disorder  unspecified,16
+ICD-10-D-G519,ICD-10-D,Disorder of facial nerve  unspecified,16
+ICD-10-D-G5690,ICD-10-D,Unspecified mononeuropathy of unspecified upper limb,16
+ICD-10-D-G5721,ICD-10-D,Lesion of femoral nerve  right lower limb,16
+ICD-10-D-G5731,ICD-10-D,Lesion of lateral popliteal nerve  right lower limb,16
+ICD-10-D-G5770,ICD-10-D,Causalgia of unspecified lower limb,16
+ICD-10-D-I639,ICD-10-D,Cerebral infarction  unspecified,16
+ICD-10-D-I69354,ICD-10-D,Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side,16
+ICD-10-D-M19019,ICD-10-D,Primary osteoarthritis  unspecified shoulder,16
+ICD-10-D-M25572,ICD-10-D,Pain in left ankle and joints of left foot,16
+ICD-10-D-M722,ICD-10-D,Plantar fascial fibromatosis,16
+ICD-10-D-R1031,ICD-10-D,Right lower quadrant pain,16
+ICD-10-D-T85121A,ICD-10-D,Displacement of implanted electronic neurostimulator of peripheral nerve electrode (lead)  initial encounter,16
+ICD-10-D-Z5181,ICD-10-D,Encounter for therapeutic drug level monitoring,16
+ICD-9-D-3383,ICD-9-D,Neoplasm related pain (acute) (chronic),16
+ICD-9-D-5363,ICD-9-D,Gastroparesis,16
+ICD-9-D-5859,ICD-9-D,Chronic kidney disease  unspecified,16
+ICD-9-D-5939,ICD-9-D,Unspecified disorder of kidney and ureter,16
+ICD-9-D-71509,ICD-9-D,Osteoarthrosis  generalized  multiple sites,16
+ICD-9-D-71943,ICD-9-D,Pain in joint  forearm,16
+ICD-9-D-72291,ICD-9-D,Other and unspecified disc disorder  cervical region,16
+ICD-9-D-7379,ICD-9-D,Unspecified curvature of spine,16
+ICD-9-D-V5863,ICD-9-D,Long-term (current) use of antiplatelet/antithrombotic,16
+ICD-9-D-V8801,ICD-9-D,Acquired absence of both cervix and uterus,16
+ICD-10-D-F1920,ICD-10-D,Other psychoactive substance dependence  uncomplicated,17
+ICD-10-D-G40919,ICD-10-D,Epilepsy  unspecified  intractable  without status epilepticus,17
+ICD-10-D-K3184,ICD-10-D,Gastroparesis,17
+ICD-10-D-M5440,ICD-10-D,Lumbago with sciatica  unspecified side,17
+ICD-10-D-M5450,ICD-10-D,Unknown,17
+ICD-10-D-R110,ICD-10-D,Nausea,17
+ICD-10-D-Z6831,ICD-10-D,Body mass index [BMI] 31.0-31.9  adult,17
+ICD-10-D-Z6843,ICD-10-D,Body mass index [BMI] 50.0-59.9  adult,17
+ICD-10-D-Z7902,ICD-10-D,Long term (current) use of antithrombotics/antiplatelets,17
+ICD-10-D-Z85828,ICD-10-D,Personal history of other malignant neoplasm of skin,17
+ICD-10-D-Z96611,ICD-10-D,Presence of right artificial shoulder joint,17
+ICD-10-D-Z969,ICD-10-D,Presence of functional implant  unspecified,17
+ICD-9-D-25002,ICD-9-D,Diabetes mellitus without mention of complication  type II or unspecified type  uncontrolled,17
+ICD-9-D-3331,ICD-9-D,Essential and other specified forms of tremor,17
+ICD-9-D-40390,ICD-9-D,Hypertensive chronic kidney disease  unspecified  with chronic kidney disease stage I through stage IV  or unspecified,17
+ICD-9-D-7391,ICD-9-D,Nonallopathic lesions  cervical region,17
+ICD-9-D-79431,ICD-9-D,Nonspecific abnormal electrocardiogram [ECG] [EKG],17
+ICD-9-D-99640,ICD-9-D,Unspecified mechanical complication of internal orthopedic device  implant  and graft,17
+ICD-9-D-V141,ICD-9-D,Personal history of allergy to other antibiotic agent,17
+ICD-9-D-V4586,ICD-9-D,Bariatric surgery status,17
+ICD-10-D-E1165,ICD-10-D,Type 2 diabetes mellitus with hyperglycemia,18
+ICD-10-D-G5742,ICD-10-D,Lesion of medial popliteal nerve  left lower limb,18
+ICD-10-D-G6289,ICD-10-D,Other specified polyneuropathies,18
+ICD-10-D-K6289,ICD-10-D,Other specified diseases of anus and rectum,18
+ICD-10-D-M79662,ICD-10-D,Pain in left lower leg,18
+ICD-10-D-N401,ICD-10-D,Benign prostatic hyperplasia with lower urinary tract symptoms,18
+ICD-10-D-Z96653,ICD-10-D,Presence of artificial knee joint  bilateral,18
+ICD-9-D-2689,ICD-9-D,Unspecified vitamin D deficiency,18
+ICD-9-D-2722,ICD-9-D,Mixed hyperlipidemia,18
+ICD-9-D-33822,ICD-9-D,Chronic post-thoracotomy pain,18
+ICD-9-D-3553,ICD-9-D,Lesion of lateral popliteal nerve,18
+ICD-9-D-4240,ICD-9-D,Mitral valve disorders,18
+ICD-9-D-4279,ICD-9-D,Cardiac dysrhythmia  unspecified,18
+ICD-9-D-78904,ICD-9-D,Abdominal pain  left lower quadrant,18
+ICD-9-D-V4611,ICD-9-D,Dependence on respirator  status,18
+ICD-9-D-V462,ICD-9-D,Other dependence on machines  supplemental oxygen,18
+ICD-10-D-F319,ICD-10-D,Bipolar disorder  unspecified,19
+ICD-10-D-G8194,ICD-10-D,Hemiplegia  unspecified affecting left nondominant side,19
+ICD-10-D-M1611,ICD-10-D,Unilateral primary osteoarthritis  right hip,19
+ICD-10-D-M4608,ICD-10-D,Spinal enthesopathy  sacral and sacrococcygeal region,19
+ICD-10-D-M5382,ICD-10-D,Other specified dorsopathies  cervical region,19
+ICD-10-D-M7910,ICD-10-D,Myalgia  unspecified site,19
+ICD-10-D-M79602,ICD-10-D,Pain in left arm,19
+ICD-10-D-R0602,ICD-10-D,Shortness of breath,19
+ICD-10-D-T85698A,ICD-10-D,Other mechanical complication of other specified internal prosthetic devices  implants and grafts  initial encounter,19
+ICD-10-D-Z6835,ICD-10-D,Body mass index [BMI] 35.0-35.9  adult,19
+ICD-10-D-Z91040,ICD-10-D,Latex allergy status,19
+ICD-10-D-Z96659,ICD-10-D,Presence of unspecified artificial knee joint,19
+ICD-9-D-59972,ICD-9-D,Microscopic hematuria,19
+ICD-9-D-71500,ICD-9-D,Osteoarthrosis  generalized  site unspecified,19
+ICD-9-D-72142,ICD-9-D,Spondylosis with myelopathy  lumbar region,19
+ICD-9-D-78906,ICD-9-D,Abdominal pain  epigastric,19
+ICD-9-D-V8541,ICD-9-D,Body Mass Index 40.0-44.9  adult,19
+ICD-10-D-G587,ICD-10-D,Mononeuritis multiplex,20
+ICD-10-D-G8250,ICD-10-D,Quadriplegia  unspecified,20
+ICD-10-D-M25569,ICD-10-D,Pain in unspecified knee,20
+ICD-10-D-M4606,ICD-10-D,Spinal enthesopathy  lumbar region,20
+ICD-10-D-M4727,ICD-10-D,Other spondylosis with radiculopathy  lumbosacral region,20
+ICD-10-D-M79601,ICD-10-D,Pain in right arm,20
+ICD-10-D-M9902,ICD-10-D,Segmental and somatic dysfunction of thoracic region,20
+ICD-10-D-R519,ICD-10-D,Headache  unspecified,20
+ICD-10-D-T85113A,ICD-10-D,Breakdown (mechanical) of implanted electronic neurostimulator  generator  initial encounter,20
+ICD-10-D-Z7251,ICD-10-D,High risk heterosexual behavior,20
+ICD-10-D-Z955,ICD-10-D,Presence of coronary angioplasty implant and graft,20
+ICD-10-D-Z9989,ICD-10-D,Dependence on other enabling machines and devices,20
+ICD-9-D-34621,ICD-9-D,Variants of migraine  not elsewhere classified  with intractable migraine  so stated  without mention of status migrainosus,20
+ICD-9-D-72871,ICD-9-D,Plantar fascial fibromatosis,20
+ICD-9-D-7804,ICD-9-D,Dizziness and giddiness,20
+ICD-10-D-E079,ICD-10-D,Disorder of thyroid  unspecified,21
+ICD-10-D-G603,ICD-10-D,Idiopathic progressive neuropathy,21
+ICD-10-D-I739,ICD-10-D,Peripheral vascular disease  unspecified,21
+ICD-10-D-M7542,ICD-10-D,Impingement syndrome of left shoulder,21
+ICD-10-D-R569,ICD-10-D,Unspecified convulsions,21
+ICD-9-D-2749,ICD-9-D,Gout  unspecified,21
+ICD-9-D-71518,ICD-9-D,Osteoarthrosis  localized  primary  other specified sites,21
+ICD-9-D-7239,ICD-9-D,Unspecified musculoskeletal disorders and symptoms referable to neck,21
+ICD-9-D-78907,ICD-9-D,Abdominal pain  generalized,21
+ICD-9-D-V146,ICD-9-D,Personal history of allergy to analgesic agent,21
+ICD-10-D-B0222,ICD-10-D,Postherpetic trigeminal neuralgia,22
+ICD-10-D-E559,ICD-10-D,Vitamin D deficiency  unspecified,22
+ICD-10-D-E782,ICD-10-D,Mixed hyperlipidemia,22
+ICD-10-D-G5762,ICD-10-D,Lesion of plantar nerve  left lower limb,22
+ICD-10-D-M21372,ICD-10-D,Foot drop  left foot,22
+ICD-10-D-M9901,ICD-10-D,Segmental and somatic dysfunction of cervical region,22
+ICD-10-D-Z853,ICD-10-D,Personal history of malignant neoplasm of breast,22
+ICD-9-D-29680,ICD-9-D,Bipolar disorder  unspecified,22
+ICD-9-D-34551,ICD-9-D,Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures  with intractable epilepsy,22
+ICD-9-D-4439,ICD-9-D,Peripheral vascular disease  unspecified,22
+ICD-9-D-52463,ICD-9-D,Temporomandibular joint disorders  articular disc disorder (reducing or non-reducing),22
+ICD-9-D-73390,ICD-9-D,Disorder of bone and cartilage  unspecified,22
+ICD-9-D-78605,ICD-9-D,Shortness of breath,22
+ICD-9-D-78652,ICD-9-D,Painful respiration,22
+ICD-10-D-F1190,ICD-10-D,Opioid use  unspecified  uncomplicated,23
+ICD-10-D-I119,ICD-10-D,Hypertensive heart disease without heart failure,23
+ICD-10-D-N189,ICD-10-D,Chronic kidney disease  unspecified,23
+ICD-10-D-R634,ICD-10-D,Abnormal weight loss,23
+ICD-9-D-3529,ICD-9-D,Unspecified disorder of cranial nerves,23
+ICD-9-D-72690,ICD-9-D,Enthesopathy of unspecified site,23
+ICD-9-D-9530,ICD-9-D,Injury to cervical nerve root,23
+ICD-10-D-G40909,ICD-10-D,Epilepsy  unspecified  not intractable  without status epilepticus,24
+ICD-10-D-G5642,ICD-10-D,Causalgia of left upper limb,24
+ICD-10-D-G5732,ICD-10-D,Lesion of lateral popliteal nerve  left lower limb,24
+ICD-10-D-I480,ICD-10-D,Paroxysmal atrial fibrillation,24
+ICD-10-D-M109,ICD-10-D,Gout  unspecified,24
+ICD-10-D-M75101,ICD-10-D,Unspecified rotator cuff tear or rupture of right shoulder  not specified as traumatic,24
+ICD-10-D-N183,ICD-10-D,Chronic kidney disease  stage 3 (moderate),24
+ICD-10-D-R109,ICD-10-D,Unspecified abdominal pain,24
+ICD-10-D-T85192A,ICD-10-D,Other mechanical complication of implanted electronic neurostimulator of spinal cord electrode (lead)  initial encounter,24
+ICD-9-D-33394,ICD-9-D,Restless legs syndrome (RLS),24
+ICD-9-D-34581,ICD-9-D,Other forms of epilepsy and recurrent seizures  with intractable epilepsy,24
+ICD-9-D-6259,ICD-9-D,Unspecified symptom associated with female genital organs,24
+ICD-9-D-73743,ICD-9-D,Scoliosis associated with other conditions,24
+ICD-9-D-V4501,ICD-9-D,Cardiac pacemaker in situ,24
+ICD-10-D-E1122,ICD-10-D,Type 2 diabetes mellitus with diabetic chronic kidney disease,25
+ICD-10-D-G2581,ICD-10-D,Restless legs syndrome,25
+ICD-10-D-G4489,ICD-10-D,Other headache syndrome,25
+ICD-10-D-G5691,ICD-10-D,Unspecified mononeuropathy of right upper limb,25
+ICD-10-D-M25519,ICD-10-D,Pain in unspecified shoulder,25
+ICD-10-D-M79606,ICD-10-D,Pain in leg  unspecified,25
+ICD-10-D-M9903,ICD-10-D,Segmental and somatic dysfunction of lumbar region,25
+ICD-10-D-N3946,ICD-10-D,Mixed incontinence,25
+ICD-10-D-Z90710,ICD-10-D,Acquired absence of both cervix and uterus,25
+ICD-10-D-Z9884,ICD-10-D,Bariatric surgery status,25
+ICD-9-D-470,ICD-9-D,Deviated nasal septum,25
+ICD-9-D-7222,ICD-9-D,Displacement of intervertebral disc  site unspecified  without myelopathy,25
+ICD-9-D-73313,ICD-9-D,Pathologic fracture of vertebrae,25
+ICD-10-D-G549,ICD-10-D,Nerve root and plexus disorder  unspecified,26
+ICD-10-D-G8114,ICD-10-D,Spastic hemiplegia affecting left nondominant side,26
+ICD-10-D-G890,ICD-10-D,Central pain syndrome,26
+ICD-10-D-M25611,ICD-10-D,Stiffness of right shoulder  not elsewhere classified,26
+ICD-10-D-R1084,ICD-10-D,Generalized abdominal pain,26
+ICD-10-D-R351,ICD-10-D,Nocturia,26
+ICD-10-D-Z4549,ICD-10-D,Encounter for adjustment and management of other implanted nervous system device,26
+ICD-10-D-Z79890,ICD-10-D,Hormone replacement therapy,26
+ICD-9-D-33900,ICD-9-D,Cluster headache syndrome  unspecified,26
+ICD-9-D-33989,ICD-9-D,Other headache syndromes,26
+ICD-9-D-78903,ICD-9-D,Abdominal pain  right lower quadrant,26
+ICD-10-D-G5761,ICD-10-D,Lesion of plantar nerve  right lower limb,27
+ICD-10-D-I69398,ICD-10-D,Other sequelae of cerebral infarction,27
+ICD-10-D-K5902,ICD-10-D,Outlet dysfunction constipation,27
+ICD-10-D-M4722,ICD-10-D,Other spondylosis with radiculopathy  cervical region,27
+ICD-10-D-M6281,ICD-10-D,Muscle weakness (generalized),27
+ICD-10-D-T85111A,ICD-10-D,Breakdown (mechanical) of implanted electronic neurostimulator of peripheral nerve electrode (lead)  initial encounter,27
+ICD-10-D-Z720,ICD-10-D,Tobacco use,27
+ICD-10-D-Z951,ICD-10-D,Presence of aortocoronary bypass graft,27
+ICD-9-D-2859,ICD-9-D,Anemia  unspecified,27
+ICD-9-D-30781,ICD-9-D,Tension headache,27
+ICD-9-D-5194,ICD-9-D,Disorders of diaphragm,27
+ICD-9-D-V4582,ICD-9-D,Percutaneous transluminal coronary angioplasty status,27
+ICD-10-D-F1020,ICD-10-D,Alcohol dependence  uncomplicated,28
+ICD-10-D-G35,ICD-10-D,Multiple sclerosis,28
+ICD-10-D-G540,ICD-10-D,Brachial plexus disorders,28
+ICD-10-D-G5622,ICD-10-D,Lesion of ulnar nerve  left upper limb,28
+ICD-10-D-G5702,ICD-10-D,Lesion of sciatic nerve  left lower limb,28
+ICD-10-D-G90523,ICD-10-D,Complex regional pain syndrome I of lower limb  bilateral,28
+ICD-10-D-M25612,ICD-10-D,Stiffness of left shoulder  not elsewhere classified,28
+ICD-10-D-M47892,ICD-10-D,Other spondylosis  cervical region,28
+ICD-10-D-M7541,ICD-10-D,Impingement syndrome of right shoulder,28
+ICD-9-D-3564,ICD-9-D,Idiopathic progressive polyneuropathy,28
+ICD-9-D-42789,ICD-9-D,Other specified cardiac dysrhythmias,28
+ICD-9-D-6089,ICD-9-D,Unspecified disorder of male genital organs,28
+ICD-9-D-72293,ICD-9-D,Other and unspecified disc disorder  lumbar region,28
+ICD-9-D-V5409,ICD-9-D,Other aftercare involving internal fixation device,28
+ICD-10-D-G5712,ICD-10-D,Meralgia paresthetica  left lower limb,29
+ICD-10-D-G8921,ICD-10-D,Chronic pain due to trauma,29
+ICD-10-D-I69351,ICD-10-D,Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side,29
+ICD-10-D-M5020,ICD-10-D,Other cervical disc displacement  unspecified cervical region,29
+ICD-10-D-N400,ICD-10-D,Benign prostatic hyperplasia without lower urinary tract symptoms,29
+ICD-10-D-Z950,ICD-10-D,Presence of cardiac pacemaker,29
+ICD-10-D-Z9911,ICD-10-D,Dependence on respirator [ventilator] status,29
+ICD-9-D-05313,ICD-9-D,Postherpetic polyneuropathy,29
+ICD-9-D-185,ICD-9-D,Malignant neoplasm of prostate,29
+ICD-9-D-49320,ICD-9-D,Chronic obstructive asthma  unspecified,29
+ICD-9-D-71944,ICD-9-D,Pain in joint  hand,29
+ICD-10-D-G5681,ICD-10-D,Other specified mononeuropathies of right upper limb,30
+ICD-10-D-G5752,ICD-10-D,Tarsal tunnel syndrome  left lower limb,30
+ICD-10-D-Z462,ICD-10-D,Encounter for fitting and adjustment of other devices related to nervous system and special senses,30
+ICD-10-D-Z7951,ICD-10-D,Long term (current) use of inhaled steroids,30
+ICD-10-D-Z86711,ICD-10-D,Personal history of pulmonary embolism,30
+ICD-10-D-Z9049,ICD-10-D,Acquired absence of other specified parts of digestive tract,30
+ICD-9-D-52462,ICD-9-D,Temporomandibular joint disorders  arthralgia of temporomandibular joint,30
+ICD-9-D-V4581,ICD-9-D,Aortocoronary bypass status,30
+ICD-10-D-K589,ICD-10-D,Irritable bowel syndrome without diarrhea,31
+ICD-10-D-M9908,ICD-10-D,Segmental and somatic dysfunction of rib cage,31
+ICD-9-D-34610,ICD-9-D,Migraine without aura  without mention of intractable migraine without mention of status migrainosus,31
+ICD-9-D-3530,ICD-9-D,Brachial plexus lesions,31
+ICD-9-D-78909,ICD-9-D,Abdominal pain  other specified site,31
+ICD-9-D-9532,ICD-9-D,Injury to lumbar nerve root,31
+ICD-9-P-8695,ICD-9-P,Insertion or replacement of multiple array neurostimulator pulse generator  not specified as rechargeable,31
+ICD-10-D-M47814,ICD-10-D,Spondylosis without myelopathy or radiculopathy  thoracic region,32
+ICD-10-D-M5410,ICD-10-D,Radiculopathy  site unspecified,32
+ICD-10-D-M5432,ICD-10-D,Sciatica  left side,32
+ICD-10-D-M7918,ICD-10-D,Myalgia  other site,32
+ICD-9-D-3549,ICD-9-D,Mononeuritis of upper limb  unspecified,32
+ICD-9-D-7140,ICD-9-D,Rheumatoid arthritis,32
+ICD-9-D-7262,ICD-9-D,Other affections of shoulder region  not elsewhere classified,32
+ICD-9-D-7393,ICD-9-D,Nonallopathic lesions  lumbar region,32
+ICD-9-D-78650,ICD-9-D,Chest pain  unspecified,32
+ICD-10-D-G580,ICD-10-D,Intercostal neuropathy,33
+ICD-10-D-M5431,ICD-10-D,Sciatica  right side,33
+ICD-10-D-Z96651,ICD-10-D,Presence of right artificial knee joint,33
+ICD-9-D-3552,ICD-9-D,Other lesion of femoral nerve,33
+ICD-9-D-71698,ICD-9-D,Arthropathy  unspecified  other specified sites,33
+ICD-9-D-V5867,ICD-9-D,Long-term (current) use of insulin,33
+ICD-9-D-V7283,ICD-9-D,Other specified pre-operative examination,33
+ICD-10-D-M5430,ICD-10-D,Sciatica  unspecified side,34
+ICD-10-D-Z881,ICD-10-D,Allergy status to other antibiotic agents,34
+ICD-9-D-2704,ICD-9-D,Disturbances of sulphur-bearing amino-acid metabolism,34
+ICD-9-D-34600,ICD-9-D,Migraine with aura  without mention of intractable migraine without mention of status migrainosus,34
+ICD-9-D-72400,ICD-9-D,Spinal stenosis  unspecified region,34
+ICD-9-D-72610,ICD-9-D,Disorders of bursae and tendons in shoulder region  unspecified,34
+ICD-9-D-78071,ICD-9-D,Chronic fatigue syndrome,34
+ICD-9-D-E8781,ICD-9-D,Surgical operation with implant of artificial internal device causing abnormal patient reaction  or later complication without mention of misadventure at time of operation,34
+ICD-9-D-V142,ICD-9-D,Personal history of allergy to sulfonamides,34
+ICD-9-D-V725,ICD-9-D,Radiological examination  not elsewhere classified,34
+ICD-10-D-G43709,ICD-10-D,Chronic migraine without aura  not intractable  without status migrainosus,35
+ICD-10-D-G43919,ICD-10-D,Migraine  unspecified  intractable  without status migrainosus,35
+ICD-10-D-G5641,ICD-10-D,Causalgia of right upper limb,35
+ICD-10-D-R339,ICD-10-D,Retention of urine  unspecified,35
+ICD-9-D-05312,ICD-9-D,Postherpetic trigeminal neuralgia,35
+ICD-9-D-29384,ICD-9-D,Anxiety disorder in conditions classified elsewhere,35
+ICD-10-D-G4735,ICD-10-D,Congenital central alveolar hypoventilation syndrome,36
+ICD-10-D-J986,ICD-10-D,Disorders of diaphragm,36
+ICD-10-D-R202,ICD-10-D,Paresthesia of skin,36
+ICD-10-D-Z96652,ICD-10-D,Presence of left artificial knee joint,36
+ICD-9-D-340,ICD-9-D,Multiple sclerosis,36
+ICD-9-D-7211,ICD-9-D,Cervical spondylosis with myelopathy,36
+ICD-10-D-G5790,ICD-10-D,Unspecified mononeuropathy of unspecified lower limb,37
+ICD-10-D-M5442,ICD-10-D,Lumbago with sciatica  left side,37
+ICD-10-D-R531,ICD-10-D,Weakness,37
+ICD-10-D-Z791,ICD-10-D,Long term (current) use of non-steroidal anti-inflammatories (NSAID),37
+ICD-10-D-Z882,ICD-10-D,Allergy status to sulfonamides,37
+ICD-9-D-71516,ICD-9-D,Osteoarthrosis  localized  primary  lower leg,37
+ICD-9-D-75612,ICD-9-D,Spondylolisthesis,37
+ICD-9-D-V4365,ICD-9-D,Knee joint replacement,37
+ICD-10-D-G90519,ICD-10-D,Complex regional pain syndrome I of unspecified upper limb,38
+ICD-10-D-M810,ICD-10-D,Age-related osteoporosis without current pathological fracture,38
+ICD-10-D-N319,ICD-10-D,Neuromuscular dysfunction of bladder  unspecified,38
+ICD-9-D-32725,ICD-9-D,Congenital central alveolar hypoventilation syndrome,38
+ICD-9-D-99675,ICD-9-D,Other complications due to nervous system device  implant  and graft,38
+ICD-10-D-G20,ICD-10-D,Parkinson's disease,39
+ICD-10-D-G43719,ICD-10-D,Chronic migraine without aura  intractable  without status migrainosus,39
+ICD-10-D-G5682,ICD-10-D,Other specified mononeuropathies of left upper limb,39
+ICD-10-D-M069,ICD-10-D,Rheumatoid arthritis  unspecified,39
+ICD-10-D-M62838,ICD-10-D,Other muscle spasm,39
+ICD-10-D-Z6841,ICD-10-D,Body mass index [BMI]40.0-44.9  adult,39
+ICD-9-D-72401,ICD-9-D,Spinal stenosis  thoracic region,39
+ICD-9-D-V1251,ICD-9-D,Personal history of venous thrombosis and embolism,39
+ICD-9-D-V7284,ICD-9-D,Pre-operative examination  unspecified,39
+ICD-10-D-G4700,ICD-10-D,Insomnia  unspecified,40
+ICD-10-D-M47896,ICD-10-D,Other spondylosis  lumbar region,40
+ICD-9-D-3542,ICD-9-D,Lesion of ulnar nerve,40
+ICD-9-D-3568,ICD-9-D,Other specified idiopathic peripheral neuropathy,40
+ICD-9-D-V145,ICD-9-D,Personal history of allergy to narcotic agent,40
+ICD-9-D-V5861,ICD-9-D,Long-term (current) use of anticoagulants,40
+ICD-10-D-F411,ICD-10-D,Generalized anxiety disorder,41
+ICD-10-D-G5621,ICD-10-D,Lesion of ulnar nerve  right upper limb,41
+ICD-10-D-G9009,ICD-10-D,Other idiopathic peripheral autonomic neuropathy,41
+ICD-10-D-I110,ICD-10-D,Hypertensive heart disease with heart failure,41
+ICD-10-D-M531,ICD-10-D,Cervicobrachial syndrome,41
+ICD-10-D-R32,ICD-10-D,Unspecified urinary incontinence,41
+ICD-9-D-7177,ICD-9-D,Chondromalacia of patella,41
+ICD-9-D-8470,ICD-9-D,Sprain of neck,41
+ICD-10-D-F40231,ICD-10-D,Fear of injections and transfusions,42
+ICD-10-D-G5751,ICD-10-D,Tarsal tunnel syndrome  right lower limb,42
+ICD-10-D-G90529,ICD-10-D,Complex regional pain syndrome I of unspecified lower limb,42
+ICD-10-D-M25571,ICD-10-D,Pain in right ankle and joints of right foot,42
+ICD-10-D-M5137,ICD-10-D,Other intervertebral disc degeneration  lumbosacral region,42
+ICD-9-D-7233,ICD-9-D,Cervicobrachial syndrome (diffuse),42
+ICD-9-D-7812,ICD-9-D,Abnormality of gait,42
+ICD-9-D-30400,ICD-9-D,Opioid type dependence  unspecified,43
+ICD-9-D-3544,ICD-9-D,Causalgia of upper limb,43
+ICD-9-D-3551,ICD-9-D,Meralgia paresthetica,43
+ICD-9-D-60001,ICD-9-D,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS),43
+ICD-9-D-78079,ICD-9-D,Other malaise and fatigue,43
+ICD-10-D-R5383,ICD-10-D,Other fatigue,44
+ICD-10-D-Z86718,ICD-10-D,Personal history of other venous thrombosis and embolism,44
+ICD-9-D-52460,ICD-9-D,Temporomandibular joint disorders  unspecified,44
+ICD-9-D-5641,ICD-9-D,Irritable bowel syndrome,44
+ICD-9-P-8939,ICD-9-P,Other nonoperative measurements and examinations,44
+ICD-10-D-G5711,ICD-10-D,Meralgia paresthetica  right lower limb,45
+ICD-10-D-M4726,ICD-10-D,Other spondylosis with radiculopathy  lumbar region,45
+ICD-10-D-M4802,ICD-10-D,Spinal stenosis  cervical region,46
+ICD-9-D-34611,ICD-9-D,Migraine without aura  with intractable migraine  so stated  without mention of status migrainosus,46
+ICD-10-D-B0229,ICD-10-D,Other postherpetic nervous system involvement,47
+ICD-10-D-G542,ICD-10-D,Cervical root disorders  not elsewhere classified,47
+ICD-10-D-I872,ICD-10-D,Venous insufficiency (chronic) (peripheral),47
+ICD-9-D-3084,ICD-9-D,Mixed disorders as reaction to stress,47
+ICD-9-D-4280,ICD-9-D,Congestive heart failure  unspecified,47
+ICD-9-D-72479,ICD-9-D,Other disorders of coccyx,47
+ICD-10-D-F1120,ICD-10-D,Opioid dependence  uncomplicated,48
+ICD-10-D-M5030,ICD-10-D,Other cervical disc degeneration  unspecified cervical region,48
+ICD-10-D-R159,ICD-10-D,Full incontinence of feces,48
+ICD-9-D-3518,ICD-9-D,Other facial nerve disorders,48
+ICD-9-D-59659,ICD-9-D,Other functional disorder of bladder,48
+ICD-10-D-G44209,ICD-10-D,Tension-type headache  unspecified  not intractable,49
+ICD-10-D-I509,ICD-10-D,Heart failure  unspecified,49
+ICD-10-D-M4607,ICD-10-D,Spinal enthesopathy  lumbosacral region,49
+ICD-10-D-M48062,ICD-10-D,Spinal stenosis  lumbar region with neurogenic claudication,49
+ICD-9-D-73300,ICD-9-D,Osteoporosis  unspecified,49
+ICD-9-P-8696,ICD-9-P,Insertion or replacement of other neurostimulator pulse generator,49
+ICD-10-D-E1142,ICD-10-D,Type 2 diabetes mellitus with diabetic polyneuropathy,50
+ICD-10-D-M5126,ICD-10-D,Other intervertebral disc displacement  lumbar region,50
+ICD-10-D-Z20828,ICD-10-D,Contact with and (suspected) exposure to other viral communicable diseases,50
+ICD-9-D-8472,ICD-9-D,Sprain of lumbar,51
+ICD-10-D-E1140,ICD-10-D,Type 2 diabetes mellitus with diabetic neuropathy  unspecified,52
+ICD-10-D-I129,ICD-10-D,Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease  or unspecified chronic kidney disease,52
+ICD-10-D-M5441,ICD-10-D,Lumbago with sciatica  right side,52
+ICD-10-D-Z888,ICD-10-D,Allergy status to other drugs  medicaments and biological substances,53
+ICD-10-D-Z885,ICD-10-D,Allergy status to narcotic agent,54
+ICD-9-D-25060,ICD-9-D,Diabetes with neurological manifestations  type II or unspecified type  not stated as uncontrolled,54
+ICD-9-D-34591,ICD-9-D,Epilepsy  unspecified  with intractable epilepsy,54
+ICD-9-D-V7281,ICD-9-D,Pre-operative cardiovascular examination,54
+ICD-9-D-33944,ICD-9-D,Other complicated headache syndrome,55
+ICD-9-D-412,ICD-9-D,Old myocardial infarction,55
+ICD-9-D-71947,ICD-9-D,Pain in joint  ankle and foot,55
+ICD-10-D-M791,ICD-10-D,Myalgia,56
+ICD-9-D-75611,ICD-9-D,Spondylolysis  lumbosacral region,56
+ICD-9-D-V148,ICD-9-D,Personal history of allergy to other specified medicinal agents,56
+ICD-10-D-M25552,ICD-10-D,Pain in left hip,57
+ICD-9-D-3540,ICD-9-D,Carpal tunnel syndrome,57
+ICD-9-D-V140,ICD-9-D,Personal history of allergy to penicillin,57
+ICD-10-D-M4601,ICD-10-D,Spinal enthesopathy  occipito-atlanto-axial region,58
+ICD-10-D-R52,ICD-10-D,Pain  unspecified,58
+ICD-9-D-3004,ICD-9-D,Dysthymic disorder,58
+ICD-9-D-3556,ICD-9-D,Lesion of plantar nerve,58
+ICD-10-D-I252,ICD-10-D,Old myocardial infarction,59
+ICD-10-D-M25551,ICD-10-D,Pain in right hip,59
+ICD-10-D-D649,ICD-10-D,Anemia  unspecified,60
+ICD-10-D-G541,ICD-10-D,Lumbosacral plexus disorders,60
+ICD-10-D-G90511,ICD-10-D,Complex regional pain syndrome I of right upper limb,60
+ICD-9-D-34541,ICD-9-D,Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures  with intractable epilepsy,60
+ICD-9-D-7820,ICD-9-D,Disturbance of skin sensation,60
+ICD-9-D-V1254,ICD-9-D,Personal history of transient ischemic attack (TIA)  and cerebral infarction without residual deficits,60
+ICD-10-D-M79604,ICD-10-D,Pain in right leg,61
+ICD-10-D-F17200,ICD-10-D,Nicotine dependence  unspecified  uncomplicated,62
+ICD-9-D-3579,ICD-9-D,Unspecified inflammatory and toxic neuropathy,62
+ICD-9-D-59654,ICD-9-D,Neurogenic bladder NOS,62
+ICD-9-D-60000,ICD-9-D,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),63
+ICD-10-D-Z8673,ICD-10-D,Personal history of transient ischemic attack (TIA)  and cerebral infarction without residual deficits,64
+ICD-9-D-33902,ICD-9-D,Chronic cluster headache,64
+ICD-9-D-3572,ICD-9-D,Polyneuropathy in diabetes,64
+ICD-9-D-78096,ICD-9-D,Generalized pain,64
+ICD-10-D-M4602,ICD-10-D,Spinal enthesopathy  cervical region,65
+ICD-10-D-F418,ICD-10-D,Other specified anxiety disorders,66
+ICD-10-D-G546,ICD-10-D,Phantom limb syndrome with pain,66
+ICD-10-D-Z794,ICD-10-D,Long term (current) use of insulin,66
+ICD-9-D-42731,ICD-9-D,Atrial fibrillation,66
+ICD-10-D-M48061,ICD-10-D,Spinal stenosis  lumbar region without neurogenic claudication,67
+ICD-10-D-M530,ICD-10-D,Cervicocranial syndrome,68
+ICD-10-D-Z7901,ICD-10-D,Long term (current) use of anticoagulants,68
+ICD-9-D-34671,ICD-9-D,Chronic migraine without aura  with intractable migraine  so stated  without mention of status migrainosus,68
+ICD-9-D-71690,ICD-9-D,Arthropathy  unspecified  site unspecified,68
+ICD-10-D-G548,ICD-10-D,Other nerve root and plexus disorders,69
+ICD-10-D-Z4542,ICD-10-D,Encounter for adjustment and management of neurostimulator,69
+ICD-10-D-Z880,ICD-10-D,Allergy status to penicillin,69
+ICD-10-D-Z98890,ICD-10-D,Other specified postprocedural states,69
+ICD-9-D-7249,ICD-9-D,Other unspecified back disorders,69
+ICD-9-D-78760,ICD-9-D,Full incontinence of feces,69
+ICD-10-D-G5772,ICD-10-D,Causalgia of left lower limb,72
+ICD-10-D-M47812,ICD-10-D,Spondylosis without myelopathy or radiculopathy  cervical region,72
+ICD-10-D-M5116,ICD-10-D,Intervertebral disc disorders with radiculopathy  lumbar region,72
+ICD-9-D-34670,ICD-9-D,Chronic migraine without aura  without mention of intractable migraine without mention of status migrainosus,72
+ICD-9-D-3532,ICD-9-D,Cervical root lesions  not elsewhere classified,72
+ICD-10-D-M549,ICD-10-D,Dorsalgia  unspecified,73
+ICD-10-D-R3915,ICD-10-D,Urgency of urination,73
+ICD-9-D-V5883,ICD-9-D,Encounter for therapeutic drug monitoring,73
+ICD-10-D-G90512,ICD-10-D,Complex regional pain syndrome I of left upper limb,74
+ICD-9-D-40291,ICD-9-D,Unspecified hypertensive heart disease with heart failure,74
+ICD-9-D-7226,ICD-9-D,Degeneration of intervertebral disc  site unspecified,74
+ICD-10-D-M5414,ICD-10-D,Radiculopathy  thoracic region,76
+ICD-9-D-71596,ICD-9-D,Osteoarthrosis  unspecified whether generalized or localized  lower leg,76
+ICD-9-D-72190,ICD-9-D,Spondylosis of unspecified site  without mention of myelopathy,76
+ICD-10-D-I4891,ICD-10-D,Unspecified atrial fibrillation,78
+ICD-10-D-M79671,ICD-10-D,Pain in right foot,78
+ICD-10-D-E6601,ICD-10-D,Morbid (severe) obesity due to excess calories,79
+ICD-10-D-G5781,ICD-10-D,Other specified mononeuropathies of right lower limb,79
+ICD-9-D-3320,ICD-9-D,Paralysis agitans,79
+ICD-10-D-M4604,ICD-10-D,Spinal enthesopathy  thoracic region,80
+ICD-10-D-M79605,ICD-10-D,Pain in left leg,80
+ICD-10-D-R102,ICD-10-D,Pelvic and perineal pain,81
+ICD-9-D-35579,ICD-9-D,Other mononeuritis of lower limb,81
+ICD-9-P-0393,ICD-9-P,Implantation or replacement of spinal neurostimulator lead(s),82
+ICD-10-D-G5771,ICD-10-D,Causalgia of right lower limb,83
+ICD-9-D-27801,ICD-9-D,Morbid obesity,84
+ICD-9-D-7212,ICD-9-D,Thoracic spondylosis without myelopathy,84
+ICD-9-D-78039,ICD-9-D,Other convulsions,85
+ICD-9-D-78052,ICD-9-D,Insomnia  unspecified,85
+ICD-10-D-G8918,ICD-10-D,Other acute postprocedural pain,86
+ICD-9-D-72271,ICD-9-D,Intervertebral disc disorder with myelopathy  cervical region,86
+ICD-10-D-G5791,ICD-10-D,Unspecified mononeuropathy of right lower limb,87
+ICD-10-D-G5792,ICD-10-D,Unspecified mononeuropathy of left lower limb,87
+ICD-10-D-G609,ICD-10-D,Hereditary and idiopathic neuropathy  unspecified,87
+ICD-10-D-M79672,ICD-10-D,Pain in left foot,87
+ICD-10-D-Z7984,ICD-10-D,Long term (current) use of oral hypoglycemic drugs,87
+ICD-9-D-3083,ICD-9-D,Other acute reactions to stress,87
+ICD-10-D-M170,ICD-10-D,Bilateral primary osteoarthritis of knee,88
+ICD-9-D-71590,ICD-9-D,Osteoarthrosis  unspecified whether generalized or localized  site unspecified,89
+ICD-9-D-4011,ICD-9-D,Benign essential hypertension,91
+ICD-9-D-7201,ICD-9-D,Spinal enthesopathy,91
+ICD-10-D-E7800,ICD-10-D,Pure hypercholesterolemia  unspecified,92
+ICD-10-D-G5782,ICD-10-D,Other specified mononeuropathies of left lower limb,92
+ICD-9-D-41400,ICD-9-D,Coronary atherosclerosis of unspecified type of vessel  native or graft,93
+ICD-10-D-M797,ICD-10-D,Fibromyalgia,94
+ICD-9-D-72211,ICD-9-D,Displacement of thoracic intervertebral disc without myelopathy,94
+ICD-10-D-M4806,ICD-10-D,Spinal stenosis  lumbar region,95
+ICD-9-D-34590,ICD-9-D,Epilepsy  unspecified  without mention of intractable epilepsy,96
+ICD-9-D-78057,ICD-9-D,Unspecified sleep apnea,96
+ICD-9-D-78821,ICD-9-D,Incomplete bladder emptying,96
+ICD-9-D-V5866,ICD-9-D,Long-term (current) use of aspirin,98
+ICD-10-D-G90522,ICD-10-D,Complex regional pain syndrome I of left lower limb,99
+ICD-9-D-7265,ICD-9-D,Enthesopathy of hip region,99
+ICD-10-D-G8928,ICD-10-D,Other chronic postprocedural pain,100
+ICD-9-D-V4589,ICD-9-D,Other postprocedural status,100
+ICD-9-D-78820,ICD-9-D,Retention of urine  unspecified,101
+ICD-9-D-78900,ICD-9-D,Abdominal pain  unspecified site,101
+ICD-9-D-72282,ICD-9-D,Postlaminectomy syndrome  thoracic region,103
+ICD-10-D-G544,ICD-10-D,Lumbosacral root disorders  not elsewhere classified,105
+ICD-10-D-G4730,ICD-10-D,Sleep apnea  unspecified,106
+ICD-9-D-05319,ICD-9-D,Herpes zoster with other nervous system complications,106
+ICD-9-D-33721,ICD-9-D,Reflex sympathetic dystrophy of the upper limb,107
+ICD-9-D-5990,ICD-9-D,Urinary tract infection  site not specified,109
+ICD-9-D-34691,ICD-9-D,Migraine  unspecified  with intractable migraine  so stated  without mention of status migrainosus,113
+ICD-9-D-72251,ICD-9-D,Degeneration of thoracic or thoracolumbar intervertebral disc,113
+ICD-10-D-M546,ICD-10-D,Pain in thoracic spine,115
+ICD-10-D-M19011,ICD-10-D,Primary osteoarthritis  right shoulder,116
+ICD-10-D-M1712,ICD-10-D,Unilateral primary osteoarthritis  left knee,118
+ICD-10-D-M533,ICD-10-D,Sacrococcygeal disorders  not elsewhere classified,119
+ICD-9-D-6256,ICD-9-D,Stress incontinence  female,119
+ICD-9-D-41401,ICD-9-D,Coronary atherosclerosis of native coronary artery,120
+ICD-10-D-G90521,ICD-10-D,Complex regional pain syndrome I of right lower limb,121
+ICD-10-D-M19012,ICD-10-D,Primary osteoarthritis  left shoulder,122
+ICD-10-D-R350,ICD-10-D,Frequency of micturition,123
+ICD-9-D-35571,ICD-9-D,Causalgia of lower limb,123
+ICD-9-D-33821,ICD-9-D,Chronic pain due to trauma,126
+ICD-10-D-M62830,ICD-10-D,Muscle spasm of back,128
+ICD-10-D-G43909,ICD-10-D,Migraine  unspecified  not intractable  without status migrainosus,129
+ICD-10-D-Z981,ICD-10-D,Arthrodesis status,129
+ICD-9-D-7246,ICD-9-D,Disorders of sacrum,130
+ICD-10-D-F17210,ICD-10-D,Nicotine dependence  cigarettes  uncomplicated,131
+ICD-9-D-496,ICD-9-D,Chronic airway obstruction  not elsewhere classified,132
+ICD-9-D-5951,ICD-9-D,Chronic interstitial cystitis,132
+ICD-9-D-27800,ICD-9-D,Obesity  unspecified,134
+ICD-9-D-3534,ICD-9-D,Lumbosacral root lesions  not elsewhere classified,134
+ICD-10-D-M5417,ICD-10-D,Radiculopathy  lumbosacral region,135
+ICD-9-D-3531,ICD-9-D,Lumbosacral plexus lesions,136
+ICD-10-D-N3281,ICD-10-D,Overactive bladder,137
+ICD-9-D-V1582,ICD-9-D,Personal history of tobacco use,138
+ICD-9-D-2720,ICD-9-D,Pure hypercholesterolemia,140
+ICD-10-D-G501,ICD-10-D,Atypical facial pain,144
+ICD-9-D-V5302,ICD-9-D,Fitting and adjustment of neuropacemaker (brain) (peripheral nerve) (spinal cord),144
+ICD-10-D-Z79891,ICD-10-D,Long term (current) use of opiate analgesic,155
+ICD-9-D-73730,ICD-9-D,Scoliosis [and kyphoscoliosis]  idiopathic,155
+ICD-10-D-M1990,ICD-10-D,Unspecified osteoarthritis  unspecified site,157
+ICD-9-D-78830,ICD-9-D,Urinary incontinence  unspecified,157
+ICD-9-D-32723,ICD-9-D,Obstructive sleep apnea (adult)(pediatric),158
+ICD-9-D-72885,ICD-9-D,Spasm of muscle,160
+ICD-9-D-72273,ICD-9-D,Intervertebral disc disorder with myelopathy  lumbar region,162
+ICD-10-D-N3941,ICD-10-D,Urge incontinence,163
+ICD-9-D-V5309,ICD-9-D,Fitting and adjustment of other devices related to nervous system and special senses,163
+ICD-10-D-G9059,ICD-10-D,Complex regional pain syndrome I of other specified site,165
+ICD-9-D-71945,ICD-9-D,Pain in joint  pelvic region and thigh,167
+ICD-10-D-M1711,ICD-10-D,Unilateral primary osteoarthritis  right knee,168
+ICD-10-D-E669,ICD-10-D,Obesity  unspecified,171
+ICD-10-D-Z7982,ICD-10-D,Long term (current) use of aspirin,171
+ICD-10-D-M5136,ICD-10-D,Other intervertebral disc degeneration  lumbar region,176
+ICD-9-D-72280,ICD-9-D,Postlaminectomy syndrome  unspecified region,176
+ICD-10-D-G500,ICD-10-D,Trigeminal neuralgia,178
+ICD-10-D-I2510,ICD-10-D,Atherosclerotic heart disease of native coronary artery without angina pectoris,180
+ICD-9-D-33720,ICD-9-D,Reflex sympathetic dystrophy  unspecified,180
+ICD-10-D-G9050,ICD-10-D,Complex regional pain syndrome I  unspecified,186
+ICD-10-D-M47817,ICD-10-D,Spondylosis without myelopathy or radiculopathy  lumbosacral region,189
+ICD-9-D-33722,ICD-9-D,Reflex sympathetic dystrophy of the lower limb,189
+ICD-10-D-J449,ICD-10-D,Chronic obstructive pulmonary disease  unspecified,194
+ICD-10-D-J45909,ICD-10-D,Unspecified asthma  uncomplicated,198
+ICD-10-D-E039,ICD-10-D,Hypothyroidism  unspecified,201
+ICD-9-D-78843,ICD-9-D,Nocturia,209
+ICD-10-D-G4733,ICD-10-D,Obstructive sleep apnea (adult) (pediatric),210
+ICD-9-D-33729,ICD-9-D,Reflex sympathetic dystrophy of other specified site,215
+ICD-10-D-R51,ICD-10-D,Headache,221
+ICD-9-D-30000,ICD-9-D,Anxiety state  unspecified,224
+ICD-10-D-G629,ICD-10-D,Polyneuropathy  unspecified,237
+ICD-9-D-71941,ICD-9-D,Pain in joint  shoulder region,243
+ICD-9-D-49390,ICD-9-D,Asthma  unspecified type  unspecified,247
+ICD-9-D-311,ICD-9-D,Depressive disorder  not elsewhere classified,256
+ICD-9-D-3539,ICD-9-D,Unspecified nerve root and plexus disorder,257
+ICD-10-D-Z87891,ICD-10-D,Personal history of nicotine dependence,258
+ICD-9-D-3501,ICD-9-D,Trigeminal neuralgia,261
+ICD-9-D-2449,ICD-9-D,Unspecified acquired hypothyroidism,264
+ICD-10-D-F419,ICD-10-D,Anxiety disorder  unspecified,265
+ICD-9-D-78833,ICD-9-D,Mixed incontinence (male) (female),267
+ICD-9-P-0492,ICD-9-P,Implantation or replacement of peripheral neurostimulator lead(s),268
+ICD-10-D-M25562,ICD-10-D,Pain in left knee,277
+ICD-9-D-33828,ICD-9-D,Other chronic postoperative pain,287
+ICD-10-D-M461,ICD-10-D,Sacroiliitis  not elsewhere classified,289
+ICD-9-D-34690,ICD-9-D,Migraine  unspecified  without mention of intractable migraine without mention of status migrainosus,290
+ICD-9-D-71946,ICD-9-D,Pain in joint  lower leg,305
+ICD-10-D-F329,ICD-10-D,Major depressive disorder  single episode  unspecified,308
+ICD-9-D-3051,ICD-9-D,Tobacco use disorder,311
+ICD-9-D-V454,ICD-9-D,Arthrodesis status,311
+ICD-9-D-3558,ICD-9-D,Mononeuritis of lower limb  unspecified,313
+ICD-9-D-2724,ICD-9-D,Other and unspecified hyperlipidemia,316
+ICD-9-D-7248,ICD-9-D,Other symptoms referable to back,316
+ICD-10-D-M25561,ICD-10-D,Pain in right knee,320
+ICD-9-D-7241,ICD-9-D,Pain in thoracic spine,321
+ICD-9-D-3502,ICD-9-D,Atypical face pain,324
+ICD-9-D-7202,ICD-9-D,Sacroiliitis  not elsewhere classified,336
+ICD-10-D-E119,ICD-10-D,Type 2 diabetes mellitus without complications,338
+ICD-9-D-78863,ICD-9-D,Urgency of urination,340
+ICD-9-D-3559,ICD-9-D,Mononeuritis of unspecified site,341
+ICD-10-D-G588,ICD-10-D,Other specified mononeuropathies,359
+ICD-10-D-E785,ICD-10-D,Hyperlipidemia  unspecified,388
+ICD-10-D-M47816,ICD-10-D,Spondylosis without myelopathy or radiculopathy  lumbar region,391
+ICD-9-D-9962,ICD-9-D,Mechanical complication of nervous system device  implant  and graft,394
+ICD-9-D-3538,ICD-9-D,Other nerve root and plexus disorders,397
+ICD-9-D-25000,ICD-9-D,Diabetes mellitus without mention of complication  type II or unspecified type  not stated as uncontrolled,406
+ICD-9-D-V5869,ICD-9-D,Long-term (current) use of other medications,423
+ICD-9-D-7232,ICD-9-D,Cervicocranial syndrome,426
+ICD-9-D-53081,ICD-9-D,Esophageal reflux,428
+ICD-10-D-M542,ICD-10-D,Cervicalgia,429
+ICD-10-D-M5412,ICD-10-D,Radiculopathy  cervical region,459
+ICD-10-D-K219,ICD-10-D,Gastro-esophageal reflux disease without esophagitis,462
+ICD-10-D-M25512,ICD-10-D,Pain in left shoulder,475
+ICD-9-D-72281,ICD-9-D,Postlaminectomy syndrome  cervical region,480
+ICD-9-D-7245,ICD-9-D,Backache  unspecified,487
+ICD-10-D-Z79899,ICD-10-D,Other long term (current) drug therapy,489
+ICD-10-D-M25511,ICD-10-D,Pain in right shoulder,491
+ICD-9-D-7243,ICD-9-D,Sciatica,557
+ICD-9-D-59651,ICD-9-D,Hypertonicity of bladder,583
+ICD-10-D-M5416,ICD-10-D,Radiculopathy  lumbar region,655
+ICD-9-D-3569,ICD-9-D,Unspecified hereditary and idiopathic peripheral neuropathy,657
+ICD-10-D-M792,ICD-10-D,Neuralgia and neuritis  unspecified,668
+ICD-9-D-7292,ICD-9-D,Neuralgia  neuritis  and radiculitis  unspecified,699
+ICD-10-D-G589,ICD-10-D,Mononeuropathy  unspecified,708
+ICD-9-D-7295,ICD-9-D,Pain in limb,787
+ICD-9-D-78841,ICD-9-D,Urinary frequency,817
+ICD-9-D-7224,ICD-9-D,Degeneration of cervical intervertebral disc,858
+ICD-10-D-M5481,ICD-10-D,Occipital neuralgia,923
+ICD-9-D-7220,ICD-9-D,Displacement of cervical intervertebral disc without myelopathy,924
+ICD-10-D-I10,ICD-10-D,Essential (primary) hypertension,945
+ICD-9-D-7230,ICD-9-D,Spinal stenosis in cervical region,988
+ICD-9-D-7210,ICD-9-D,Cervical spondylosis without myelopathy,996
+ICD-9-D-7291,ICD-9-D,Myalgia and myositis  unspecified,1037
+ICD-9-D-4019,ICD-9-D,Unspecified essential hypertension,1059
+ICD-9-D-7840,ICD-9-D,Headache,1099
+ICD-10-D-M961,ICD-10-D,Postlaminectomy syndrome  not elsewhere classified,1116
+ICD-9-D-78831,ICD-9-D,Urge incontinence,1166
+ICD-10-D-M545,ICD-10-D,Low back pain,1364
+ICD-9-D-7384,ICD-9-D,Acquired spondylolisthesis,1416
+ICD-9-D-72403,ICD-9-D,Spinal stenosis  lumbar region  with neurogenic claudication,1445
+ICD-9-D-7234,ICD-9-D,Brachial neuritis or radiculitis NOS,1486
+ICD-9-D-33829,ICD-9-D,Other chronic pain,1765
+ICD-9-D-7238,ICD-9-D,Other syndromes affecting cervical region,1777
+ICD-10-D-G8929,ICD-10-D,Other chronic pain,1785
+ICD-9-D-7218,ICD-9-D,Other allied disorders of spine,1811
+ICD-9-D-7231,ICD-9-D,Cervicalgia,1970
+ICD-9-D-33818,ICD-9-D,Other acute postoperative pain,2253
+ICD-9-D-72283,ICD-9-D,Postlaminectomy syndrome  lumbar region,3081
+ICD-10-D-G894,ICD-10-D,Chronic pain syndrome,3099
+ICD-9-D-72402,ICD-9-D,Spinal stenosis  lumbar region  without neurogenic claudication,4182
+ICD-9-D-3384,ICD-9-D,Chronic pain syndrome,4198
+ICD-9-D-72252,ICD-9-D,Degeneration of lumbar or lumbosacral intervertebral disc,5091
+ICD-9-D-7213,ICD-9-D,Lumbosacral spondylosis without myelopathy,5163
+ICD-9-D-7244,ICD-9-D,Thoracic or lumbosacral neuritis or radiculitis  unspecified,5346
+ICD-9-D-72210,ICD-9-D,Displacement of lumbar intervertebral disc without myelopathy,5437
+ICD-9-D-7242,ICD-9-D,Lumbago,6969
